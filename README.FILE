@@ -1,0 +1,50 @@
+🎙️ Text-to-Speech Converter
+A professional, responsive, and easy-to-use Text-to-Speech (TTS) web application built using HTML, CSS, and JavaScript. This tool allows users to input custom text and convert it into natural-sounding speech using the Web Speech API.
+
+🚀 Features
+🎧 Converts written text into spoken voice using built-in browser capabilities
+
+🌐 Supports multiple languages and voices (depending on browser support)
+
+🖥️ Responsive and accessible user interface
+
+🎛️ Adjustable pitch, rate, and volume settings (optional)
+
+📱 Fully compatible with modern browsers and mobile devices
+
+🛠️ Technologies Used
+HTML5 — Semantic structure
+
+CSS3 — Styling and layout
+
+JavaScript (Vanilla) — Web Speech API integration
+
+📦 How to Use
+Clone or Download the repository
+
+Open index.html in any modern browser
+
+Type or paste your text into the input box
+
+Select your preferred voice (if available)
+
+Click "Speak" to hear the spoken output
+
+🔒 Browser Compatibility
+✅ Google Chrome
+
+✅ Microsoft Edge
+
+✅ Safari (limited voice support)
+
+⚠️ Firefox (partial support)
+
+📁 Project Structure
+bash
+Copy
+Edit
+text-to-speech-converter
+│
+├── index.html       # Main HTML structure
+├── style.css        # Custom styles
+└── script.js        # TTS functionality (Web Speech API)
